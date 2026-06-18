@@ -161,7 +161,7 @@ y la rama actual seleccionada.
 
 ---
 
-# Parte 5: .gitignore
+# Parte 6: .gitignore
 
 1. Cree un script bash llamado:
 
