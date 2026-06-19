@@ -23,3 +23,6 @@ Ejemplos:
 node_modules/
 .log
 hello.sh
+
+Parte 7
+Un Pull Request permite solicitar la incorporación de cambios realizados en una rama hacia otra rama. Además, facilita la revisión del código, la discusión de modificaciones y la detección de posibles errores antes de integrar los cambios al proyecto principal.
