@@ -1,0 +1,6 @@
+1)	Al clonar un repositorio se descarga también el historial de commits y se lo puede modificar y enviar a github. Al descargar un zip se descargan solo los archivos en el estado actual del repositorio y no se tiene conexión con github para realizar o ver cambios.
+2)	El archivo README sirve como guía y presentación del proyecto, es donde se explica que hace y como usar el repositorio.
+3)	La carpeta Estudiantes y sus archivos aparecen como untracked ya que nunca fueron agregados al área de preparacion por git.
+4)	Un commit guarda el estado actual del proyecto para el uso actual y para poder revisar en el futuro si el archivo fue modificado y se quiere ver una versión anterior.
+5) Es recomendable trabahjar en ramas direfentes a la principal ya que, generalmente, se usa la rama principal para la version estable del proyecto que se muestra el publico mientras que en ramas secundarias se trabaja en mejorar el codigo o agregar funcionalidades sin correr el riesgo de "romper" un programa funcional.
+6) 
