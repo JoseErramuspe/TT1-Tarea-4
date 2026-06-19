@@ -12,3 +12,14 @@ Un commit permite guardar una versión específica del proyecto. Funciona como u
 Parte 5
 Trabajar en ramas distintas de la rama principal permite realizar modificaciones y desarrollar nuevas funcionalidades sin afectar la versión estable del proyecto. Además, facilita la organización del trabajo, las pruebas y la colaboración entre varios desarrolladores.
 
+Parte 6
+El archivo hello.sh no aparece en la salida de git status porque está siendo ignorado por Git. Esto ocurre debido a que el archivo .gitignore contiene una regla que coincide con el nombre hello.sh, por lo que Git no lo rastrea ni lo considera para futuros commits.
+
+El archivo .gitignore sirve para indicar qué archivos o carpetas deben ser ignorados por Git. Esto resulta útil para evitar incluir archivos temporales, ejecutables, dependencias o configuraciones locales que no deben compartirse en el repositorio.
+
+Ejemplos:
+.tmp
+.exe
+node_modules/
+.log
+hello.sh
