@@ -5,7 +5,7 @@ El archivo README.md sirve para explicar de qué trata el proyecto y proporciona
 3) ¿Qué archivos aparecen como modificados cuando ejecuta el comando? 
 git status 
 Explique brevemente por qué aparecen en dicho estado.
-Aparece el archivo nombre_apellido.txt como archivo nuevo. Esto sucede porque lo creé recientemente y Git todavía no lo tiene guardado en un commit. Por eso aparece como un cambio pendiente.
+Aparece el archivo que creé dentro de la carpeta Estudiantes como archivo nuevo. Esto sucede porque lo creé recientemente y Git todavía no lo tiene guardado en un commit. Por eso aparece como un cambio pendiente.
 4) ¿Cuál es la función de un commit dentro de Git? 
 Un commit guarda una versión específica de los cambios realizados en el proyecto, permitiendo registrar el historial y volver a estados anteriores si es necesario.
 5) ¿Por qué es recomendable trabajar en ramas diferentes a la rama principal? 
