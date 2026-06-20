@@ -1,7 +1,7 @@
 1) ¿Qué diferencia existe entre descargar un proyecto como archivo ZIP (Code > Download ZIP) y clonarlo (git clone ) utilizando Git? 
 Descargar un proyecto como ZIP permite obtener únicamente los archivos. En cambio, al clonarlo con Git se descarga el proyecto completo junto con su historial de cambios, lo que permite seguir trabajando con Git y GitHub de manera más eficiente. 
 2) ¿Cuál es la función principal del archivo README.md dentro de un proyecto? 
-El archivo README.md sirve para documentar el proyecto, explicando su propósito, instalación, uso y cualquier información importante para los desarrolladores o usuarios.
+El archivo README.md sirve para explicar de qué trata el proyecto y proporcionar información sobre su instalación, uso y funcionamiento.
 3) ¿Qué archivos aparecen como modificados cuando ejecuta el comando? 
 git status 
 Explique brevemente por qué aparecen en dicho estado.
